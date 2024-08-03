@@ -32,7 +32,7 @@ REQUISITES:
 
 
 VERSIONS:
-      This binding (this current verison) has been tested with OCaml version
+      This binding (this current version) has been tested with OCaml version
         '4.14.0' and GraphicsMagick versions '1.3.35', '1.3.36'.
 
       Please report success or failure with other versions.
