@@ -1,11 +1,11 @@
 opam-version: "2.0"
 authors: ["Florent Monnier"]
-maintainer: "https://github.com/fccm/"
+maintainer: "https://github.com/fccm2/"
 license: "Zlib"
 homepage: "http://decapode314.free.fr/ocaml/GraphicsMagick/"
 doc: "http://decapode314.free.fr/ocaml/GraphicsMagick/doc/"
-dev-repo: "git+https://github.com/fccm/ocaml-graphicsmagick.git"
-bug-reports: "https://github.com/fccm/ocaml-graphicsmagick/issues"
+dev-repo: "git+https://github.com/fccm2/ocaml-graphicsmagick.git"
+bug-reports: "https://github.com/besport/ocaml-imagemagick/issues"  # graphics-magick is a fork of image-magick
 tags: ["graphics" "2D" "image"]
 synopsis: "Bindings for GraphicsMagick"
 description: """
